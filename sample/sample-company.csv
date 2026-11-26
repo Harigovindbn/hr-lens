@@ -1,0 +1,422 @@
+Emp ID,Full Name,Dept,Job Title,Gender,DOB,Date of Joining,Termination Date,Status,Annual Salary,Performance Rating,Job Satisfaction,OverTime,Absence Days,Years Since Last Promotion,Training Hours,Manager,Reason for Leaving
+E1000,Chen Tan,Sales,Sales Manager,Female,1996-07-08,21/5/2025,,Active,"$47,800",2,3,No,6,3,30,M13,
+E1001,Priya Hassan,Engineering,Software Engineer,male,1968-01-20,2026-10-09,,Active,"$89,800",2,3,No,7,5,37,M27,
+E1002,Fatima Ali,Engineering,Senior Engineer,F,1968-01-26,2022-08-22,,Active,100100,2,4,No,7,3,17,M01,
+E1003,Arjun Nair,Finance,Financial Analyst,Female,1984-05-14,2025-02-04,,Active,63600,3,3,No,5,3,24,M14,
+E1004,Jon Rahman,Operations,Ops Coordinator,male,1971-02-11,15 Jan 2019,,Active,42500,2,3,Yes,1,5,25,M00,
+E1005,Jon Haddad,Sales,Account Executive,male,1980-06-15,1 Jul 2025,,Active,56600,4,3,Yes,3,0,41,M22,
+E1006,Yusuf Ali,Customer Support,Support Agent,F,1973-07-29,25/10/2020,26/4/2021,Resigned,49700,3,2,Yes,4,3,30,M20,Better pay elsewhere
+E1007,Ahmed Rahman,Finance,Financial Analyst,F,1998-09-06,9 Sep 2020,,Active,86900,3,2,No,11,1,15,M13,
+E1008,Ravi Silva,Finance,Financial Analyst,F,1999-05-16,11 Jan 2023,,Active,58200,4,3,No,7,0,24,M20,
+E1009,Elena Silva,Sales,SDR,male,1968-04-05,16 Nov 2019,21 May 2020,Resigned,63700,3,2,Yes,0,1,52,M19,Personal
+E1010,Mei Khan,Sales,SDR,Female,1974-07-18,2023-09-30,,Active,48400,2,3,No,1,2,25,M08,
+E1011,Nora Wong, customer support ,Support Agent,Female,1990-02-25,15 May 2023,17 Jul 2023,Resigned,49100,4,2,No,21,3,46,M18,Career growth
+E1012,Nora Ali,Operations,Logistics Analyst,M,1987-06-15,5 Jan 2023,,Active,"$47,200",3,3,No,0,2,32,M22,
+E1013,Maya Silva, engineering ,Senior Engineer,M,2002-01-26,2021-03-25,,Active,"$81,500",4,2,Yes,1,3,19,M19,
+E1014,Rahul Khan,Engineering,Software Engineer,male,2004-03-30,2019-10-28,,Active,109900,4,3,No,0,5,26,M21,
+E1015,Maya Wong,FINANCE,Financial Analyst,male,1971-10-11,24 Aug 2024,,Active,64800,3,3,No,6,5,23,M10,
+E1016,Lena Ong,Operations,Logistics Analyst,Female,1984-08-11,2020-06-14,2023-01-29,Resigned,"$37,700",4,3,Yes,6,5,42,M04,Career growth
+E1017,Jon Hassan,Engineering,Senior Engineer,male,2000-10-09,5/5/2022,16/10/2023,Resigned,77000,4,4,No,2,0,36,M25,Career growth
+E1018,Daniel Lim,Finance,Accountant,,1992-10-10,24 Jan 2022,,Active,82700,4,3,No,6,5,38,M03,
+E1019,Sara Silva,Engineering,Senior Engineer,M,1986-05-24,13 Apr 2025,,Active,"$109,900",4,3,No,0,4,19,M13,
+E1020,Arjun Patel,Sales,Sales Manager,male,1984-06-05,2026-03-04,2026-07-09,Resigned,67500,4,2,No,0,3,52,M04,Career growth
+E1021,Rahul Ong,Sales,Sales Manager,F,1995-05-07,31 Aug 2022,,Active,"$60,700",4,2,No,5,1,28,M18,
+E1022,Yusuf Silva,Operations,Logistics Analyst,Female,1973-02-02,2024-07-18,,Active,40000,4,3,No,0,3,46,M11,
+E1023,Yusuf Haddad,Operations,Logistics Analyst,F,1978-01-07,16 Dec 2021,,Active,42600,2,3,No,10,2,26,M19,
+E1024,Omar Haddad,Customer Support,Team Lead,M,1973-06-11,23/12/2025,,Active,49700,3,3,Yes,3,4,26,M07,
+E1025,Nora Wong,Sales,Account Executive,M,1988-05-04,18/4/2023,,Active,61200,4,3,No,1,4,32,M00,
+E1026,Ali Haddad,Engineering,Software Engineer,male,2000-03-26,14 Jan 2026,,Active,"$84,900",2,2,No,2,1,26,M23,
+E1027,Chen Silva,Customer Support,Team Lead,F,1968-10-29,2019-11-02,2023-10-17,Resigned,33200,4,2,No,0,0,45,M09,Relocation
+E1028,Omar Haddad,Engineering,Software Engineer,male,1978-08-06,11/2/2022,,Active,105200,3,2,Yes,1,0,39,M13,
+E1029,Ravi Ong,Engineering,Software Engineer,M,1984-03-04,2019-07-02,,Active,105700,2,2,No,9,4,15,M01,
+E1030,Rahul Costa,Sales,SDR,F,1988-03-27,28 Aug 2026,,Active,57400,3,2,No,1,2,21,M07,
+E1031,Ali Weber,Customer Support,Support Agent,Female,1977-01-16,2026-09-21,,Active,"$45,000",4,3,No,18,2,51,M08,
+E1032,Ahmed Haddad,Finance,Financial Analyst,M,1981-09-08,8 Jan 2024,,Active,87900,2,3,No,7,4,35,M26,
+E1033,Ahmed Haddad,Marketing,Marketing Specialist,male,1979-07-22,4 Sep 2026,,Active,61700,3,4,No,1,4,37,M08,
+E1034,Jon Tan,Operations,Ops Coordinator,Female,1968-08-28,6/11/2017,,Active,57300,4,3,No,3,3,40,M04,
+E1035,Nora Silva,Engineering,QA Engineer,F,1977-07-20,2021-05-04,,Active,,3,3,No,6,0,16,M07,
+E1036,Ahmed Patel,Sales,Sales Manager,F,1992-09-22,13/8/2020,,Active,52400,2,2,No,7,5,16,M04,
+E1037,Ravi Rahman,Operations,Logistics Analyst,M,1998-05-19,24 Sep 2026,,Active,"$38,100",2,2,No,3,4,17,M06,
+E1038,Jon Weber,Customer Support,Team Lead,F,1990-06-02,2025-12-17,,Active,"$31,200",4,2,No,2,1,32,M06,
+E1039,Aisha Nair,Sales,SDR,F,1995-05-17,2026-05-21,,Active,52700,4,2,No,0,0,35,M08,
+E1040,Ahmed Ali,Sales,SDR,male,1983-09-03,16 Feb 2022,,Active,50000,4,4,No,1,2,28,M16,
+E1041,Ali Tan,ENGINEERING,Software Engineer,Female,1992-10-28,22/5/2024,,Active,108000,4,2,Yes,3,2,40,M10,
+E1042,Ravi Patel,Finance,Accountant,male,1989-05-17,27/1/2023,,Active,"$81,400",3,4,No,1,3,29,M01,
+E1043,Mei Haddad,Sales,Sales Manager,M,2004-10-10,6 Aug 2020,5 Dec 2020,Resigned,43400,3,2,No,1,2,47,M20,Career growth
+E1044,Mei Hassan,Engineering,QA Engineer,male,1992-01-09,2024-04-01,,Active,106900,4,3,No,7,4,36,M09,
+E1045,Sara Patel,Engineering,QA Engineer,Female,1994-01-09,2026-04-08,,Active,"$81,900",4,3,No,5,4,24,M06,
+E1046,Mei Ong,Finance,Accountant,F,2003-01-09,4/6/2020,,Active,49000,2,3,No,1,3,19,M11,
+E1047,Chen Patel,Sales,Sales Manager,M,1975-09-28,5 Jul 2019,,Active,46700,4,1,Yes,2,1,26,M21,
+E1048,Ali Nair,Customer Support,Team Lead,male,1985-07-05,28 Mar 2026,,Active,"$38,700",3,3,No,8,5,49,M15,
+E1049,Arjun Rahman,Sales,Account Executive,male,2004-09-18,10/6/2023,,Active,54200,3,3,Yes,5,3,47,M05,
+E1050,Maya Hassan,Finance,Financial Analyst,F,1992-08-14,30/9/2019,29/5/2026,Terminated,68900,3,1,Yes,10,4,22,M26,Better pay elsewhere
+E1051,Ravi Nair,Operations,Logistics Analyst,F,2003-07-21,8 Jun 2026,20 Aug 2026,Terminated,"$57,400",3,2,No,9,2,37,M26,Relocation
+E1052,Daniel Lim,Finance,Financial Analyst,,1990-06-27,7/2/2019,,Active,71300,4,3,No,11,5,22,M23,
+E1053,Omar Menon,Sales,SDR,male,1981-06-13,13 Mar 2018,4 Nov 2018,Resigned,69300,4,2,Yes,5,3,23,M07,Relocation
+E1054,Chen Ong,Sales,Account Executive,,1971-09-27,26 Dec 2020,,Active,,2,4,No,0,5,25,M16,
+E1055,Ali Silva,Customer Support,Support Agent,male,2003-10-02,2026-01-27,,Active,36400,3,3,No,21,0,27,M08,
+E1056,Omar Patel,Engineering,Software Engineer,F,1978-03-24,20/8/2021,,Active,"$92,000",2,3,No,1,2,46,M11,
+E1057,Ravi Tan,Customer Support,Team Lead,,1978-05-12,20/10/2019,19/7/2026,Resigned,"$32,700",3,3,Yes,3,4,23,M06,Personal
+E1058,Aisha Hassan,Finance,Accountant,F,2003-06-29,3 Mar 2018,,Active,"$59,300",2,3,No,1,3,44,M17,
+E1059,Maya Menon,Sales,Account Executive,male,1987-01-31,12/9/2026,15/9/2026,Terminated,46300,3,3,Yes,8,0,36,M19,Better pay elsewhere
+E1059,Maya Menon,Sales,Account Executive,male,1987-01-31,12/9/2026,15/9/2026,Terminated,46300,3,3,Yes,8,0,36,M19,Better pay elsewhere
+E1060,Elena Menon,Operations,Logistics Analyst,M,1989-04-26,8/3/2026,,Active,60200,3,4,No,8,5,28,M04,
+E1061,Daniel Patel,Finance,Financial Analyst,F,1973-09-26,1 Jan 2023,,Active,66000,2,2,No,5,0,10,M19,
+E1062,Sara Hassan,Engineering,Senior Engineer,F,1993-09-30,16 Mar 2025,,Active,"$113,900",4,2,No,3,3,26,M24,
+E1063,Mei Ong,Operations,Ops Coordinator,male,1978-02-15,2/1/2018,,Active,46100,2,2,No,3,2,40,M15,
+E1064,Mei Lim,Finance,Accountant,M,1968-02-18,2018-03-23,,Active,77100,3,2,No,0,0,48,M24,
+E1065,Sara Ali,Engineering,Senior Engineer,M,1979-04-09,2021-03-07,,Active,69300,4,2,No,1,2,18,M21,
+E1066,Nora Tan,Customer Support,Support Agent,Female,2000-09-24,22 Mar 2023,,Active,"$41,900",4,3,Yes,2,2,22,M09,
+E1067,Mei Weber,Engineering,Software Engineer,Female,1969-09-10,7 Jul 2026,9 Aug 2026,Terminated,99600,3,2,No,2,2,45,M24,Personal
+E1068,Arjun Haddad,Finance,Accountant,male,1990-06-27,2020-04-04,2024-01-07,Resigned,76400,4,2,No,4,4,21,M01,Personal
+E1069,Elena Rahman,Engineering,Senior Engineer,M,1987-07-27,1 May 2024,,Active,79500,3,2,No,1,1,18,M06,
+E1070,Yusuf Nair,Marketing,Marketing Specialist,male,1997-04-09,11/7/2024,,Active,65500,4,4,No,6,2,44,M08,
+E1071,Ahmed Patel,Customer Support,Team Lead,M,1987-05-05,2022-12-29,,Active,"$46,100",4,2,No,1,2,25,M24,
+E1072,Rahul Ong,Finance,Accountant,Female,1974-09-03,2026-10-11,,Active,62300,3,2,Yes,7,0,17,M07,
+E1073,Chen Nair,Sales,Sales Manager,F,1984-06-07,12 May 2020,7 Sep 2020,Terminated,54900,4,2,Yes,4,5,21,M04,Better pay elsewhere
+E1074,Lena Menon,Customer Support,Support Agent,M,1977-06-15,29 Apr 2025,,Active,"$38,400",4,4,No,5,2,36,M01,
+E1075,Hana Weber, customer support ,Team Lead,F,1981-05-14,2018-01-19,2018-08-17,Resigned,34200,3,2,Yes,16,0,14,M24,Relocation
+E1076,Ali Haddad,Engineering,Senior Engineer,male,1974-05-22,2/10/2022,,Active,"$109,400",4,4,No,0,2,25,M06,
+E1077,Omar Weber,Engineering,QA Engineer,M,1967-03-07,2018-02-07,,Active,117200,3,3,No,4,5,17,M27,
+E1078,Hana Menon,Operations,Logistics Analyst,Female,2002-10-31,7/7/2023,,Active,33500,2,2,Yes,8,5,36,M16,
+E1079,Aisha Costa,Customer Support,Team Lead,M,1970-04-18,18/9/2026,,Active,38300,3,3,No,1,3,28,M03,
+E1080,Priya Ali,Engineering,Software Engineer,M,1990-07-24,2024-09-03,,Active,79400,2,3,No,8,4,41,M19,
+E1081,Sara Lim,Sales,SDR,,1997-08-25,11 Jan 2023,20 Jul 2023,Resigned,"$68,000",4,1,Yes,11,2,41,M27,Workload
+E1082,Elena Menon,Engineering,Senior Engineer,M,1981-09-08,22/10/2017,,Active,"$107,600",3,3,No,0,4,46,M20,
+E1083,Arjun Lim,Sales,Account Executive,F,1992-04-28,19/9/2021,25/3/2022,Resigned,46700,3,2,Yes,6,4,28,M05,Personal
+E1084,Yusuf Weber,Engineering,QA Engineer,M,1995-10-12,9 Apr 2023,,Active,122000,4,3,No,0,3,39,M08,
+E1085,Omar Khan,Sales,SDR,F,1979-07-19,2026-10-04,,Active,"$53,800",3,2,No,10,0,16,M15,
+E1086,Mei Rahman,Engineering,QA Engineer,M,1967-03-13,26/9/2026,,Active,102800,2,3,No,3,3,34,M14,
+E1087,Mei Tan,Sales,SDR,,1985-06-06,13/1/2023,,Active,42000,4,3,Yes,3,1,33,M06,
+E1088,Daniel Ong,Customer Support,Support Agent,Female,1992-05-15,2026-04-13,,Active,"$46,500",2,2,No,4,2,32,M27,
+E1089,Hana Ali,Operations,Ops Coordinator,F,1986-02-15,8/10/2026,,Active,"$32,700",2,3,No,0,3,17,M08,
+E1090,Maya Ali,Engineering,Senior Engineer,male,1999-03-25,28/2/2021,,Active,74200,4,2,No,7,0,52,M02,
+E1091,Nora Lim,Operations,Logistics Analyst,male,2002-09-01,31 Dec 2025,,Active,"$45,100",3,3,No,3,1,34,M16,
+E1092,Hana Weber,Operations,Ops Coordinator,male,1979-03-04,9 Jul 2018,,Active,44800,3,2,Yes,0,0,30,M04,
+E1093,Sara Patel,Marketing,Marketing Specialist,M,1990-04-01,12 Mar 2026,28 May 2026,Resigned,74600,4,3,No,4,5,48,M00,Relocation
+E1094,Fatima Khan,Sales,Sales Manager,Female,1992-07-25,10 Jan 2026,,Active,63500,4,2,No,1,3,32,M23,
+E1095,Nora Nair,Engineering,Senior Engineer,male,1975-04-04,2026-09-07,,Active,84000,3,4,No,3,2,33,M26,
+E1096,Jon Lim,Marketing,Marketing Specialist,F,1970-05-29,25 Oct 2025,21 Dec 2025,Resigned,49700,2,2,No,0,1,26,M12,Manager
+E1097,Omar Ali,Engineering,Software Engineer,F,1974-07-04,8/1/2026,23/6/2026,Terminated,83900,4,3,No,2,1,18,M07,Career growth
+E1098,Aisha Weber,Customer Support,Support Agent,F,1980-03-22,2024-09-14,,Active,48300,3,3,Yes,19,5,37,M22,
+E1099,Jon Menon,Finance,Accountant,,1988-01-30,10 Aug 2026,,Active,"$56,900",3,4,No,3,0,33,M15,
+E1100,Hana Lim,Engineering,Software Engineer,F,1983-04-18,10/12/2018,,Active,"$87,700",4,2,No,9,0,27,M23,
+E1101,Ravi Ali,Marketing,Marketing Specialist,,1982-09-06,17/6/2024,,Active,"$57,000",4,3,No,2,5,40,M03,
+E1102,Yusuf Weber,Engineering,QA Engineer,M,1991-10-22,22/12/2022,,Active,106600,3,2,Yes,1,3,38,M25,
+E1103,Lena Ali,Operations,Logistics Analyst,Female,1989-01-26,2024-12-18,,Active,55200,2,1,Yes,8,0,30,M10,
+E1104,Daniel Tan,Sales,Sales Manager,F,1990-04-13,2018-02-04,,Active,41300,4,3,No,5,5,54,M25,
+E1105,Ravi Khan,Sales,Account Executive,male,1975-05-17,2025-07-20,,Active,52600,4,2,No,1,5,45,M14,
+E1106,Hana Rahman,Operations,Ops Coordinator,F,1991-06-13,12 Dec 2025,,Active,48900,2,3,Yes,0,3,18,M14,
+E1107,Aisha Costa,Operations,Ops Coordinator,M,1979-01-21,14 Oct 2019,,Active,44700,3,3,No,10,4,26,M13,
+E1108,Ali Tan,Engineering,Senior Engineer,F,2003-06-30,5 Mar 2024,,Active,"$93,100",3,4,No,1,3,20,M02,
+E1109,Daniel Costa,Engineering,Senior Engineer,,1977-08-12,29/10/2023,,Active,92400,2,3,No,1,0,22,M00,
+E1110,Nora Rahman,Operations,Ops Coordinator,,1999-06-22,11 Jun 2026,,Active,"$42,400",2,2,No,0,3,40,M17,
+E1111,Maya Rahman, operations ,Logistics Analyst,M,1985-05-05,2026-06-25,,Active,57500,4,3,Yes,10,5,34,M16,
+E1112,Mei Patel,Sales,Sales Manager,male,1967-10-31,22 Jun 2024,,Active,"$57,700",4,3,No,11,3,17,M15,
+E1113,Elena Tan,SALES,SDR,male,1983-06-18,9/4/2026,19/10/2026,Resigned,"$72,400",4,3,No,7,1,43,M14,Relocation
+E1114,Yusuf Wong,Customer Support,Team Lead,M,1983-03-25,22/12/2019,,Active,53900,3,3,No,1,1,24,M13,
+E1115,Omar Nair,Sales,Account Executive,F,1989-01-27,7 Aug 2026,,Active,51300,4,2,No,0,0,35,M06,
+E1116,Daniel Khan,Finance,Financial Analyst,Female,1991-10-05,3 Sep 2026,30 Sep 2026,Terminated,82200,2,3,No,4,4,31,M08,Personal
+E1117,Daniel Silva,Customer Support,Support Agent,M,1968-08-23,2023-01-16,2025-11-02,Resigned,"$42,600",3,2,No,9,4,21,M19,Manager
+E1118,Priya Tan,Customer Support,Support Agent,M,1982-10-20,2020-11-23,,Active,54800,4,4,No,17,2,52,M08,
+E1119,Ravi Tan,Sales,Account Executive,male,1984-09-02,20 Jan 2026,,Active,66700,4,4,No,0,4,27,M13,
+E1120,Rahul Menon,Operations,Ops Coordinator,male,1984-06-09,11 Nov 2018,25 Mar 2019,Resigned,49100,3,3,Yes,5,1,42,M06,Manager
+E1121,Jon Ali,Operations,Ops Coordinator,M,2002-04-09,2026-10-01,,Active,"$60,800",3,4,No,0,3,13,M27,
+E1122,Nora Rahman,Customer Support,Support Agent,F,1981-10-03,30 Aug 2021,15 Oct 2021,Terminated,"$53,400",4,1,Yes,5,5,29,M05,Better pay elsewhere
+E1123,Sara Nair,Engineering,Senior Engineer,male,1989-06-17,9 Jul 2021,,Active,"$73,900",2,2,Yes,0,2,13,M18,
+E1124,Daniel Silva,Customer Support,Team Lead,M,1992-03-01,2026-01-11,2026-01-19,Terminated,"$49,500",2,2,Yes,0,2,47,M03,Career growth
+E1125,Omar Hassan,Sales,Account Executive,F,2001-04-24,4 May 2024,26 Oct 2024,Resigned,40600,2,2,No,5,1,11,M07,Manager
+E1126,Elena Silva,Customer Support,Support Agent,male,1971-05-04,1/3/2026,17/9/2026,Terminated,47400,2,2,No,0,4,12,M16,Personal
+E1127,Aisha Silva,Sales,SDR,M,2003-05-01,5 Oct 2023,12 Apr 2024,Resigned,"$51,100",4,1,Yes,10,5,53,M09,Workload
+E1128,Ahmed Menon,Engineering,QA Engineer,Female,1969-07-24,2019-01-06,,Active,68200,4,4,No,0,2,24,M15,
+E1129,Daniel Patel,Sales,SDR,Female,1983-04-20,7/5/2019,9/2/2020,Terminated,51100,2,2,No,9,5,29,M16,Better pay elsewhere
+E1130,Ravi Tan,Customer Support,Team Lead,Female,1967-08-06,2018-07-19,,Active,"$48,200",3,3,No,14,3,33,M04,
+E1131,Ali Lim,Marketing,Content Lead,M,1987-05-19,15/8/2025,,Active,,4,3,No,2,0,44,M01,
+E1132,Omar Ong,Operations,Logistics Analyst,M,1982-03-15,2020-10-24,,Active,41700,2,2,No,3,3,38,M21,
+E1133,Ali Nair,Customer Support,Team Lead,M,1984-01-08,17/7/2018,,Active,41000,3,2,No,8,2,18,M05,
+E1134,Arjun Ong,Sales,Sales Manager,M,1969-02-10,30/5/2025,3/10/2026,Terminated,44500,3,2,Yes,3,3,34,M14,Relocation
+E1135,Mei Ali, finance ,Accountant,F,2002-10-16,2022-03-07,,Active,66800,2,2,No,4,1,12,M15,
+E1136,Lena Weber,Sales,Account Executive,,2000-07-02,21/6/2025,,Active,62900,3,3,No,4,3,39,M05,
+E1137,Jon Tan,CUSTOMER SUPPORT,Team Lead,Female,1969-05-09,30/11/2023,8/11/2025,Terminated,"$38,600",2,3,No,19,5,36,M24,Manager
+E1138,Yusuf Rahman,Engineering,Senior Engineer,male,1976-06-09,16/8/2018,,Active,75000,3,3,No,1,5,33,M09,
+E1139,Yusuf Lim,Sales,Sales Manager,F,1976-03-06,2019-12-25,,Active,"$61,600",2,2,No,3,5,22,M17,
+E1140,Aisha Wong,Marketing,Content Lead,M,1996-02-04,13 Jan 2026,,Active,78300,4,2,No,7,3,24,M26,
+E1141,Lena Hassan,Sales,SDR,Female,1985-08-12,14/2/2021,21/10/2023,Resigned,"$45,700",2,2,Yes,0,5,35,M20,Workload
+E1142,Omar Khan,Sales,SDR,Female,1999-05-26,2024-01-04,,Active,"$64,400",3,3,No,8,3,22,M13,
+E1143,Sara Haddad,Sales,Sales Manager,male,1989-02-11,2026-10-07,,Active,40900,4,3,Yes,3,0,25,M03,
+E1144,Chen Nair,Customer Support,Team Lead,male,1996-03-29,2 Dec 2018,20 Jan 2024,Terminated,46700,2,3,Yes,8,4,36,M15,Manager
+E1145,Omar Ong,Sales,SDR,male,1968-08-15,11 Jan 2024,,Active,65700,3,3,No,6,5,46,M15,
+E1146,Lena Rahman, sales ,Sales Manager,Female,1999-08-01,2024-02-06,,Active,64200,3,4,No,1,0,31,M27,
+E1147,Ahmed Hassan,Marketing,Content Lead,Female,1968-03-06,2025-07-21,,Active,"$57,600",4,2,Yes,9,1,41,M02,
+E1148,Maya Tan,Sales,Sales Manager,Female,1984-04-04,21 Jul 2025,,Active,64000,3,4,No,6,5,50,M16,
+E1149,Priya Patel,Sales,Account Executive,F,1980-10-08,17/8/2022,31/5/2023,Resigned,"$43,000",2,3,Yes,6,5,19,M27,Manager
+E1150,Omar Wong,Customer Support,Team Lead,F,1990-03-30,2024-08-04,,Active,37300,2,3,No,0,0,9,M06,
+E1151,Hana Wong,Operations,Logistics Analyst,Female,1981-10-01,18/11/2024,,Active,35000,3,3,Yes,6,2,22,M11,
+E1152,Ravi Patel,Operations,Logistics Analyst,male,1976-04-27,2023-09-04,,Active,53400,3,3,No,0,1,37,M20,
+E1153,Chen Rahman,Sales,Sales Manager,male,1969-06-30,15/3/2022,7/10/2022,Terminated,46000,4,2,Yes,9,3,52,M20,Workload
+E1154,Sara Patel,Sales,Account Executive,F,1969-01-07,15 Sep 2020,,Active,62600,2,3,Yes,3,4,46,M09,
+E1155,Omar Patel,Engineering,Senior Engineer,Female,1991-07-10,2025-04-26,,Active,108100,4,3,No,2,3,54,M05,
+E1156,Daniel Silva,Customer Support,Team Lead,M,2000-01-16,2021-06-13,,Active,52300,4,2,No,3,1,39,M05,
+E1157,Nora Nair,Customer Support,Support Agent,F,1967-08-02,14 Feb 2024,,Active,50300,3,3,Yes,6,3,34,M19,
+E1158,Priya Menon,Finance,Accountant,Female,1991-06-14,23/5/2018,,Active,88800,4,3,No,9,0,17,M16,
+E1159,Mei Khan,Operations,Ops Coordinator,M,2004-09-19,16 Jun 2022,,Active,64100,4,3,Yes,4,4,49,M06,
+E1160,Fatima Khan,Customer Support,Team Lead,Female,2000-02-21,3/3/2025,,Active,33700,2,2,No,16,3,39,M04,
+E1161,Sara Lim,Engineering,Software Engineer,Female,1986-10-31,18/9/2026,,Active,"$106,000",3,3,No,1,4,20,M03,
+E1162,Hana Costa,Operations,Ops Coordinator,,1992-08-03,2021-07-25,2025-03-23,Resigned,"$35,400",4,3,Yes,5,3,20,M22,Relocation
+E1163,Yusuf Haddad,Sales,Sales Manager,M,1980-06-09,21 May 2026,22 Oct 2026,Terminated,67300,2,2,No,5,3,39,M00,Career growth
+E1164,Jon Menon,Finance,Accountant,Female,1972-10-09,1/7/2024,2/4/2025,Terminated,"$67,700",3,2,No,4,3,39,M13,Personal
+E1165,Jon Patel,Engineering,QA Engineer,Female,1990-07-21,14 Jul 2019,,Active,112800,4,3,No,2,4,23,M08,
+E1166,Aisha Haddad,Finance,Accountant,Female,1977-07-12,6/6/2025,,Active,65500,4,3,No,11,5,25,M06,
+E1167,Arjun Lim,Customer Support,Team Lead,F,1975-09-03,2021-11-01,2022-11-12,Resigned,"$46,300",4,2,No,10,1,52,M05,Workload
+E1168,Priya Wong,CUSTOMER SUPPORT,Team Lead,,2004-07-14,23 Aug 2026,,Active,40900,4,2,Yes,6,4,30,M26,
+E1169,Jon Nair,Engineering,QA Engineer,male,1968-05-29,25 Apr 2020,,Active,97900,4,3,No,0,3,17,M13,
+E1170,Jon Nair,Customer Support,Support Agent,M,1989-07-12,22/3/2020,,Active,41000,4,3,No,21,5,56,M23,
+E1171,Jon Tan,Engineering,Senior Engineer,M,1971-07-01,1/5/2025,,Active,91400,2,3,Yes,9,2,13,M05,
+E1172,Ali Lim,Customer Support,Team Lead,F,1992-04-26,6/7/2024,,Active,29700,3,3,No,12,3,36,M21,
+E1173,Ahmed Haddad,Operations,Logistics Analyst,M,1996-03-24,10/1/2018,3/1/2025,Resigned,48700,2,2,No,4,2,40,M03,Relocation
+E1174,Chen Hassan,Operations,Ops Coordinator,F,1996-10-26,2021-03-19,2023-07-03,Resigned,57000,4,2,Yes,1,0,55,M22,Career growth
+E1175,Nora Silva,Finance,Accountant,male,1979-03-04,22/12/2020,,Active,57200,3,3,No,2,1,32,M26,
+E1176,Elena Lim,Sales,Account Executive,male,2001-08-06,2026-08-03,,Active,,3,4,No,9,2,50,M18,
+E1177,Elena Nair,Marketing,Content Lead,F,1981-03-23,25/12/2025,,Active,69300,4,3,Yes,0,5,40,M04,
+E1178,Ahmed Haddad,Operations,Ops Coordinator,M,2001-09-16,26/9/2026,,Active,58100,4,2,No,4,2,19,M04,
+E1179,Arjun Silva,Engineering,Senior Engineer,M,1984-05-16,15/6/2026,,Active,83400,3,3,No,1,1,25,M14,
+E1180,Jon Tan,Operations,Logistics Analyst,F,1987-06-10,20 Mar 2021,,Active,"$48,800",4,2,No,0,1,54,M25,
+E1181,Lena Khan,Operations,Logistics Analyst,M,1983-05-16,27 Jul 2026,,Active,"$45,300",3,4,No,0,4,31,M18,
+E1182,Nora Rahman,Customer Support,Team Lead,M,1970-08-17,10 Jan 2019,,Active,48800,3,2,No,20,5,27,M14,
+E1183,Chen Khan,Customer Support,Support Agent,M,1969-03-24,13/9/2026,23/9/2026,Resigned,34500,4,2,Yes,4,1,35,M05,Workload
+E1184,Aisha Weber,Customer Support,Team Lead,F,1995-09-27,21/8/2026,,Active,33300,3,2,Yes,0,2,22,M21,
+E1185,Sara Hassan,Operations,Ops Coordinator,Female,1981-08-20,2021-12-27,,Active,42700,4,4,No,3,2,54,M08,
+E1186,Jon Menon,Operations,Ops Coordinator,male,1968-07-29,7/1/2026,1/8/2026,Resigned,45000,4,2,No,1,3,23,M18,Relocation
+E1187,Ali Hassan,Engineering,Senior Engineer,male,1978-05-18,8 Apr 2023,,Active,"$106,600",4,3,No,0,5,44,M08,
+E1188,Ali Rahman,Sales,SDR,Female,1995-09-21,15/3/2021,,Active,"$63,700",4,3,No,1,2,19,M14,
+E1189,Hana Patel,Customer Support,Team Lead,Female,1986-01-18,8/5/2025,12/5/2026,Resigned,34000,3,2,No,0,2,13,M09,Manager
+E1190,Jon Costa,Operations,Ops Coordinator,M,1971-09-26,2024-02-05,,Active,51900,2,4,No,4,2,18,M12,
+E1191,Aisha Nair,Customer Support,Team Lead,M,1986-10-23,16/7/2025,21/6/2026,Resigned,,3,1,Yes,15,1,51,M26,Career growth
+E1192,Maya Patel,Operations,Ops Coordinator,Female,1971-04-16,13 Jun 2023,,Active,49100,3,2,No,1,1,42,M26,
+E1193,Jon Menon,Customer Support,Team Lead,Female,1975-02-25,15/4/2019,9/8/2019,Terminated,39800,2,2,No,2,2,27,M23,Workload
+E1194,Ahmed Khan,Operations,Ops Coordinator,male,1988-02-16,8 Sep 2025,6 Sep 2026,Resigned,,2,3,Yes,6,4,17,M13,Manager
+E1195,Ravi Weber,Customer Support,Team Lead,Female,1988-03-23,2023-06-17,2026-08-08,Terminated,43800,3,2,Yes,1,3,40,M13,Better pay elsewhere
+E1196,Ahmed Weber,Engineering,QA Engineer,M,1976-03-10,2024-11-14,,Active,95400,3,3,No,10,5,14,M18,
+E1197,Sara Patel,Engineering,Senior Engineer,male,2001-06-07,10 Oct 2024,,Active,102900,2,3,No,0,2,10,M11,
+E1198,Arjun Hassan,Marketing,Content Lead,M,2000-10-10,27 Dec 2022,,Active,64700,4,2,Yes,3,5,22,M03,
+E1199,Ahmed Rahman,Operations,Ops Coordinator,F,1990-03-11,2023-07-07,,Active,39900,4,2,Yes,4,2,22,M15,
+E1200,Maya Weber,Sales,Account Executive,male,1981-07-29,2020-09-26,2021-08-09,Terminated,"$42,400",4,3,Yes,0,0,35,M13,Relocation
+E1201,Chen Patel,Engineering,Senior Engineer,M,1994-09-04,22 Jun 2026,,Active,111300,3,3,Yes,7,5,30,M24,
+E1202,Lena Nair,Sales,Account Executive,Female,1990-10-10,7/7/2023,19/1/2026,Terminated,"$42,400",2,1,Yes,11,3,45,M16,Better pay elsewhere
+E1203,Maya Tan,Sales,Account Executive,M,1976-08-22,2026-08-10,,Active,60900,4,3,Yes,3,1,30,M20,
+E1204,Hana Ong,Finance,Financial Analyst,M,1976-05-28,12 Aug 2026,,Active,81500,4,3,No,0,0,54,M06,
+E1205,Ahmed Lim, customer support ,Support Agent,M,1976-10-21,21/5/2023,20/9/2025,Resigned,45900,4,2,No,10,3,26,M00,Better pay elsewhere
+E1206,Daniel Lim,Finance,Financial Analyst,F,1997-08-10,11 Jan 2020,,Active,83700,3,3,No,7,4,42,M11,
+E1207,Aisha Rahman,Customer Support,Team Lead,,1999-05-02,2025-04-30,,Active,45300,2,4,No,2,2,23,M27,
+E1208,Lena Lim,Operations,Ops Coordinator,male,1972-01-12,8/7/2020,,Active,43200,3,3,No,9,0,46,M24,
+E1209,Rahul Tan,Engineering,Software Engineer,Female,1976-03-17,6 Aug 2021,,Active,70900,3,4,No,3,4,50,M10,
+E1210,Rahul Rahman,Engineering,QA Engineer,M,1998-04-18,2025-01-05,,Active,72800,4,2,No,11,1,42,M19,
+E1211,Arjun Patel,Sales,SDR,male,1995-03-07,14/3/2021,,Active,42100,4,4,No,1,4,34,M13,
+E1212,Lena Wong,Engineering,Senior Engineer,male,1985-01-26,2024-01-14,,Active,"$70,400",2,2,Yes,2,4,18,M22,
+E1213,Rahul Wong,Operations,Logistics Analyst,,2001-01-28,24 Mar 2024,,Active,42200,3,3,No,0,0,31,M05,
+E1214,Jon Ong,Customer Support,Team Lead,F,1979-10-23,2022-09-26,2026-08-31,Resigned,"$31,100",3,2,Yes,17,3,50,M20,Personal
+E1215,Chen Wong,Customer Support,Support Agent,F,1990-02-27,20/4/2022,20/6/2022,Resigned,38600,4,2,No,6,1,50,M08,Workload
+E1216,Rahul Hassan,Engineering,Software Engineer,male,1987-09-12,2019-06-02,,Active,70300,3,4,No,0,3,14,M04,
+E1217,Ahmed Tan,Sales,Sales Manager,F,1992-04-26,15/7/2019,2/4/2025,Terminated,54500,4,2,Yes,9,2,49,M03,Manager
+E1218,Yusuf Haddad,Marketing,Marketing Specialist,M,1978-10-21,2022-11-21,,Active,"$61,500",3,3,Yes,10,3,52,M21,
+E1219,Daniel Weber,Customer Support,Support Agent,M,1994-06-08,5 Oct 2025,14 Oct 2026,Resigned,36400,2,2,No,8,3,29,M18,Workload
+E1220,Elena Nair,Operations,Ops Coordinator,F,1989-06-13,2025-10-20,2026-01-09,Terminated,42500,4,2,No,4,3,35,M21,Manager
+E1221,Mei Ali,Sales,Account Executive,F,1994-01-23,2020-05-02,,Active,"$45,500",4,2,Yes,7,2,51,M26,
+E1222,Elena Wong,Engineering,Software Engineer,M,1981-10-19,6/3/2021,,Active,109300,4,2,No,11,3,54,M04,
+E1223,Mei Tan,Operations,Logistics Analyst,male,1970-09-11,2022-12-01,,Active,66300,4,3,No,0,4,45,M04,
+E1224,Lena Lim,Engineering,Software Engineer,Female,1976-05-13,9/11/2023,,Active,68800,3,3,Yes,10,1,38,M09,
+E1225,Ravi Hassan,Operations,Logistics Analyst,male,1986-10-15,2020-11-30,,Active,44200,3,4,No,0,3,52,M12,
+E1226,Rahul Ong,Marketing,Content Lead,F,1997-10-19,9/8/2026,,Active,63100,2,3,No,8,0,32,M13,
+E1227,Mei Haddad,Sales,Sales Manager,Female,1987-01-21,2025-08-29,,Active,49500,4,2,No,11,4,27,M04,
+E1228,Jon Costa,Engineering,QA Engineer,male,1977-10-27,7 May 2018,,Active,80200,3,3,No,1,1,13,M09,
+E1229,Rahul Tan,Engineering,Software Engineer,Female,1990-06-20,17/4/2023,,Active,67600,4,3,No,3,3,49,M11,
+E1230,Yusuf Ali,Sales,SDR,male,1982-05-15,1 Apr 2019,11 Aug 2019,Resigned,59700,4,1,Yes,7,0,55,M15,Relocation
+E1231,Ahmed Khan,Engineering,Senior Engineer,M,1981-02-20,28 Sep 2026,,Active,80600,4,4,No,0,3,28,M02,
+E1232,Omar Rahman,Finance,Accountant,F,1990-06-19,28 Jan 2022,,Active,"$88,800",4,3,No,6,1,25,M26,
+E1233,Hana Menon,Engineering,Senior Engineer,male,1986-04-09,6/2/2025,,Active,81100,3,3,No,3,2,32,M08,
+E1234,Omar Costa,Operations,Ops Coordinator,M,1988-04-18,16 Mar 2020,,Active,51100,4,3,No,0,1,35,M01,
+E1235,Priya Weber,Sales,SDR,M,1994-08-26,1 Jun 2026,,Active,62300,4,3,No,10,2,20,M09,
+E1236,Mei Costa,Sales,SDR,Female,1995-05-02,2025-02-10,,Active,57300,2,1,Yes,1,5,8,M02,
+E1237,Arjun Rahman,Finance,Financial Analyst,M,1968-07-17,2020-06-16,,Active,56000,2,4,No,0,4,33,M08,
+E1238,Chen Lim,CUSTOMER SUPPORT,Team Lead,Female,1973-07-06,20 Sep 2025,,Active,38000,3,2,Yes,15,5,16,M17,
+E1239,Yusuf Menon,Sales,Sales Manager,Female,1989-02-09,19/2/2025,,Active,54600,4,2,No,3,0,47,M09,
+E1240,Hana Haddad,MARKETING,Content Lead,M,1982-06-14,16 Nov 2018,,Active,80200,3,4,No,0,1,16,M10,
+E1241,Daniel Ali,Marketing,Marketing Specialist,M,1987-09-13,5 Mar 2021,,Active,48600,2,2,No,10,3,13,M07,
+E1242,Ali Ali,Sales,Account Executive,male,1976-07-23,15/11/2024,23/8/2026,Terminated,45000,4,3,Yes,7,0,34,M02,Career growth
+E1243,Mei Patel,Customer Support,Support Agent,,1982-09-07,6 Jun 2024,,Active,43400,3,2,No,20,4,37,M27,
+E1244,Nora Weber, operations ,Ops Coordinator,male,1992-06-21,10/8/2026,,Active,38700,4,3,No,5,1,48,M12,
+E1245,Maya Patel, sales ,Sales Manager,Female,1969-05-19,2022-08-20,2023-04-24,Terminated,53000,4,3,No,5,1,45,M26,Career growth
+E1246,Ahmed Menon,Operations,Ops Coordinator,Female,1994-05-04,26 Aug 2018,,Active,"$49,900",2,3,Yes,1,4,29,M06,
+E1247,Arjun Patel,CUSTOMER SUPPORT,Support Agent,male,1975-02-02,19 Sep 2022,,Active,30000,2,2,No,9,3,22,M06,
+E1248,Ravi Tan,Engineering,QA Engineer,male,1996-09-07,2024-02-28,,Active,102300,3,2,No,3,1,29,M20,
+E1249,Omar Ong,Customer Support,Team Lead,F,1975-08-18,4/9/2022,29/7/2023,Terminated,38500,3,3,Yes,2,2,51,M27,Better pay elsewhere
+E1250,Chen Silva,Sales,Sales Manager,F,1993-03-10,4/1/2021,,Active,42400,3,3,Yes,9,3,15,M08,
+E1251,Chen Patel,Operations,Ops Coordinator,M,2001-10-22,2026-06-21,,Active,"$56,400",3,2,No,3,0,45,M13,
+E1252,Daniel Ali, sales ,Sales Manager,F,1990-07-09,2024-06-16,2025-02-08,Resigned,"$53,600",2,2,Yes,9,0,32,M18,Better pay elsewhere
+E1253,Hana Costa,Customer Support,Team Lead,Female,1991-06-17,21 Nov 2022,,Active,45700,4,2,No,0,5,49,M15,
+E1254,Hana Menon,Customer Support,Team Lead,M,1996-07-11,24/5/2021,12/6/2022,Terminated,"$36,100",4,2,Yes,1,0,27,M24,Workload
+E1255,Daniel Tan,Sales,SDR,M,1987-08-12,10/1/2024,,Active,"$52,300",2,2,No,1,3,25,M11,
+E1256,Sara Nair,Engineering,Senior Engineer,M,2004-09-26,18/4/2025,,Active,85800,2,3,Yes,0,3,35,M16,
+E1257,Rahul Haddad,Engineering,QA Engineer,M,1969-07-12,15/10/2018,,Active,115700,4,2,No,2,5,44,M23,
+E1258,Aisha Silva,Customer Support,Support Agent,F,1983-10-20,2024-10-14,2025-03-16,Terminated,,3,1,Yes,8,3,25,M00,Manager
+E1259,Mei Costa,Sales,SDR,male,1994-10-18,2023-12-17,,Active,67500,4,3,No,4,3,41,M10,
+E1260,Chen Rahman,Finance,Financial Analyst,M,2004-02-08,15/11/2022,,Active,"$74,900",4,3,No,10,5,51,M26,
+E1261,Ravi Ali,Operations,Ops Coordinator,male,1992-02-07,2/11/2025,,Active,56400,4,4,No,4,5,29,M12,
+E1262,Lena Costa,Operations,Logistics Analyst,male,1986-01-09,22/2/2018,,Active,"$47,900",2,3,No,1,3,40,M22,
+E1263,Fatima Costa,Customer Support,Team Lead,male,1970-07-05,2/1/2018,,Active,33900,2,3,Yes,6,1,16,M14,
+E1264,Sara Haddad,Sales,Sales Manager,F,1986-10-12,24/7/2024,,Active,"$39,500",2,3,No,11,0,18,M27,
+E1265,Jon Weber,Engineering,Senior Engineer,M,2001-05-05,25/5/2025,,Active,103900,4,2,No,10,1,19,M08,
+E1266,Nora Khan,Operations,Ops Coordinator,Female,1982-06-14,8/5/2025,8/7/2025,Resigned,60000,4,2,No,7,3,18,M20,Workload
+E1267,Hana Khan,Sales,Account Executive,male,1974-08-17,2025-04-21,2025-08-08,Resigned,"$48,000",3,3,Yes,3,1,40,M07,Relocation
+E1268,Hana Weber,Engineering,Senior Engineer,M,1973-03-30,3 Aug 2021,,Active,86000,2,3,No,10,4,39,M21,
+E1269,Yusuf Hassan,Sales,SDR,Female,1977-05-15,22/7/2023,,Active,"$55,400",4,4,No,0,3,52,M02,
+E1270,Elena Khan,Sales,Account Executive,M,1985-05-16,2025-07-09,2026-04-04,Resigned,53700,2,2,Yes,7,4,34,M17,Career growth
+E1271,Mei Weber,Marketing,Marketing Specialist,M,1977-06-02,2020-08-06,,Active,"$68,100",4,3,No,10,2,53,M00,
+E1272,Fatima Rahman,Customer Support,Team Lead,F,1971-06-14,2019-08-23,2021-01-27,Resigned,51700,4,3,Yes,4,4,25,M14,Workload
+E1273,Aisha Menon,Marketing,Content Lead,F,1996-02-19,2017-11-24,,Active,"$57,100",4,2,No,2,5,17,M26,
+E1274,Sara Costa,Finance,Accountant,male,1983-06-19,2026-04-14,,Active,51200,2,2,No,4,3,36,M00,
+E1275,Maya Menon,Engineering,QA Engineer,F,1967-04-16,12/10/2022,,Active,76100,2,2,No,9,1,14,M10,
+E1276,Hana Menon,Sales,Account Executive,Female,1968-08-07,31 Jul 2023,,Active,46400,2,4,No,3,3,47,M12,
+E1277,Mei Ali,Engineering,Senior Engineer,Female,1978-06-16,4 Jul 2024,,Active,72000,3,3,No,10,2,40,M23,
+E1278,Ahmed Ali,OPERATIONS,Logistics Analyst,Female,1999-09-25,13 Oct 2025,,Active,52900,4,2,No,2,0,27,M16,
+E1279,Ravi Tan,Sales,Sales Manager,M,1977-01-12,18/7/2020,7/12/2020,Terminated,44900,3,1,Yes,7,0,42,M15,Better pay elsewhere
+E1280,Hana Weber,Engineering,Senior Engineer,male,1986-10-07,2025-11-22,,Active,98100,3,2,Yes,2,3,37,M20,
+E1281,Chen Costa,Operations,Ops Coordinator,male,2004-09-19,2022-07-13,,Active,"$57,600",4,2,No,9,4,32,M22,
+E1282,Yusuf Patel,Sales,Sales Manager,male,1997-07-19,2025-03-18,2025-08-23,Resigned,46300,3,2,Yes,4,0,35,M06,Manager
+E1283,Chen Ong,Customer Support,Team Lead,male,1996-01-12,3/10/2018,18/6/2019,Terminated,32000,2,3,No,12,1,29,M06,Relocation
+E1284,Ahmed Silva,Operations,Ops Coordinator,male,1978-07-03,27/10/2023,6/10/2025,Terminated,"$44,700",2,3,No,0,2,38,M24,Workload
+E1285,Lena Tan,Engineering,Senior Engineer,M,1981-10-16,9/3/2023,,Active,90100,3,2,No,1,3,38,M06,
+E1286,Aisha Nair,Customer Support,Support Agent,Female,1980-09-28,2020-07-16,,Active,42800,3,2,No,3,0,47,M23,
+E1287,Lena Haddad,Sales,SDR,male,2001-05-27,29 Sep 2023,,Active,"$39,500",3,3,Yes,4,4,51,M15,
+E1288,Yusuf Tan,Engineering,Software Engineer,M,1999-03-26,17 May 2026,,Active,74000,4,3,No,10,1,33,M18,
+E1289,Chen Khan,Marketing,Marketing Specialist,F,1996-03-02,2025-02-15,,Active,"$42,400",2,2,No,0,3,11,M27,
+E1290,Ahmed Costa,Engineering,Senior Engineer,Female,2000-06-18,2025-03-20,,Active,"$69,500",4,3,No,9,1,52,M10,
+E1291,Mei Weber,Sales,Sales Manager,F,1996-03-03,2017-12-30,,Active,"$47,900",2,4,No,0,0,33,M17,
+E1292,Hana Ali,Finance,Accountant,M,1977-04-01,28/8/2020,,Active,82300,4,1,Yes,1,5,50,M25,
+E1293,Aisha Wong,Finance,Accountant,M,1967-04-05,17/6/2019,,Active,,4,2,Yes,0,0,20,M25,
+E1294,Jon Silva,Operations,Ops Coordinator,,1970-04-30,2/8/2022,,Active,35400,4,2,No,5,1,31,M17,
+E1295,Fatima Hassan,Customer Support,Support Agent,F,1999-06-21,13/6/2026,,Active,33300,2,3,Yes,0,3,9,M27,
+E1296,Daniel Wong,Finance,Accountant,male,1987-10-30,21 Jun 2020,,Active,83400,4,2,No,2,2,49,M16,
+E1297,Omar Weber,Finance,Financial Analyst,Female,1988-03-29,9 Jun 2025,,Active,"$69,900",3,4,No,1,3,40,M01,
+E1298,Yusuf Lim,Operations,Ops Coordinator,Female,1993-10-01,30/9/2024,,Active,61600,4,3,No,0,0,46,M21,
+E1299,Arjun Ong,Operations,Ops Coordinator,F,1975-01-18,2026-10-10,2026-10-10,Resigned,"$59,600",4,2,Yes,7,2,21,M15,Better pay elsewhere
+E1300,Mei Nair,Engineering,QA Engineer,male,1974-01-08,2023-08-15,,Active,102500,3,3,Yes,0,3,18,M23,
+E1301,Ali Wong,Customer Support,Team Lead,,1998-10-26,2026-08-24,2026-10-11,Terminated,29900,4,3,No,18,3,25,M06,Manager
+E1302,Maya Ong,Sales,Account Executive,F,1975-01-31,9 Jul 2019,,Active,"$46,100",3,3,No,1,1,49,M14,
+E1303,Arjun Hassan,OPERATIONS,Ops Coordinator,male,1975-03-07,23 May 2024,7 Apr 2026,Resigned,"$51,500",3,3,No,0,5,38,M27,Relocation
+E1304,Yusuf Ali,Customer Support,Support Agent,M,1995-08-16,9 Mar 2023,,Active,47900,2,2,No,5,2,28,M09,
+E1305,Yusuf Hassan,Engineering,QA Engineer,M,2001-05-05,2021-05-18,,Active,"$74,300",4,2,Yes,5,2,16,M03,
+E1306,Daniel Wong,Customer Support,Team Lead,male,1984-08-20,2024-02-27,2025-01-12,Terminated,38800,2,2,Yes,5,4,31,M09,Career growth
+E1307,Ali Rahman,Engineering,QA Engineer,Female,1984-06-11,2018-03-01,,Active,"$113,000",4,3,Yes,5,2,22,M14,
+E1308,Ravi Nair,Customer Support,Support Agent,F,1998-05-21,11/6/2021,28/5/2025,Terminated,"$49,600",4,3,Yes,4,5,36,M14,Manager
+E1309,Aisha Silva,Customer Support,Team Lead,M,1992-05-05,2026-08-22,2026-10-12,Terminated,37900,4,3,Yes,0,1,45,M06,Better pay elsewhere
+E1310,Omar Wong,Engineering,Software Engineer,Female,1980-05-26,24 Oct 2024,28 Aug 2026,Terminated,71900,4,2,No,3,3,24,M20,Manager
+E1311,Fatima Ong,Sales,Sales Manager,Female,1985-01-22,2018-07-25,,Active,61200,4,2,No,0,5,32,M23,
+E1312,Hana Costa,Engineering,Senior Engineer,M,1998-04-08,12/3/2020,,Active,87500,3,3,No,2,3,31,M09,
+E1313,Yusuf Rahman,Sales,SDR,F,1973-03-03,2021-04-02,2021-12-12,Terminated,57800,3,2,Yes,0,5,50,M00,Career growth
+E1314,Mei Ong,Operations,Ops Coordinator,F,1998-03-05,7/12/2018,,Active,"$33,400",2,3,No,4,4,25,M02,
+E1315,Elena Ong,Operations,Logistics Analyst,M,1981-08-16,29 Aug 2020,,Active,52300,3,4,No,0,1,45,M18,
+E1316,Priya Patel,Operations,Logistics Analyst,F,1994-05-22,2022-01-03,,Active,45600,4,3,No,1,2,26,M17,
+E1317,Arjun Menon,Marketing,Marketing Specialist,M,1979-10-07,2026-10-08,,Active,"$61,700",3,3,No,1,1,48,M17,
+E1318,Priya Menon,Customer Support,Support Agent,male,2003-01-29,29 Jul 2025,14 Jul 2026,Terminated,33100,2,2,No,7,0,44,M09,Manager
+E1319,Ravi Patel,Sales,SDR,F,1967-05-23,2023-08-19,,Active,55200,4,3,No,1,0,55,M27,
+E1320,Omar Hassan,Operations,Logistics Analyst,M,1988-05-27,21/10/2017,,Active,50300,3,3,No,9,0,43,M16,
+E1321,Elena Khan,Sales,Account Executive,Female,2000-03-06,3/3/2024,,Active,,4,3,Yes,6,0,51,M25,
+E1322,Elena Rahman,FINANCE,Financial Analyst,M,1990-09-28,21 Feb 2018,,Active,,3,3,No,4,1,52,M15,
+E1323,Ahmed Khan,Engineering,Software Engineer,,1992-05-29,5 Oct 2022,17 Jun 2023,Resigned,"$109,900",4,2,No,7,4,51,M16,Manager
+E1324,Nora Ong,Marketing,Marketing Specialist,M,1967-07-08,14/3/2025,,Active,"$61,900",3,2,No,0,1,41,M08,
+E1325,Mei Haddad,Sales,Account Executive,Female,1970-05-30,28 Sep 2024,9 Nov 2025,Terminated,"$56,500",4,2,No,10,3,41,M12,Relocation
+E1326,Nora Nair,Marketing,Content Lead,male,1981-01-23,16 May 2025,1 Jul 2025,Resigned,"$50,300",4,2,No,10,3,38,M19,Better pay elsewhere
+E1327,Yusuf Costa,Customer Support,Team Lead,,2000-07-08,2018-05-02,,Active,38500,2,3,Yes,1,3,21,M27,
+E1328,Elena Hassan,Engineering,Senior Engineer,,1983-01-15,2023-02-20,,Active,103500,2,2,Yes,3,1,43,M19,
+E1329,Yusuf Menon,Engineering,QA Engineer,M,1996-06-27,7 Jan 2021,,Active,87800,3,3,No,8,5,36,M05,
+E1330,Chen Weber,Finance,Financial Analyst,male,1968-04-22,2026-07-16,,Active,55700,3,2,Yes,0,4,41,M13,
+E1331,Ravi Haddad,Finance,Financial Analyst,male,1972-03-21,11/9/2026,,Active,"$88,400",4,3,No,4,5,50,M17,
+E1332,Ahmed Tan,Operations,Logistics Analyst,M,1997-02-06,2023-05-06,2023-11-06,Terminated,"$59,300",3,3,Yes,1,3,36,M09,Manager
+E1333,Hana Nair,Marketing,Content Lead,M,1975-04-16,14 May 2026,,Active,62300,4,3,Yes,2,3,55,M07,
+E1334,Ahmed Silva,Marketing,Content Lead,male,1989-06-19,10/6/2025,,Active,49700,4,4,No,1,4,30,M05,
+E1335,Hana Ong,Customer Support,Support Agent,Female,2003-09-12,2/6/2024,,Active,45300,3,3,Yes,18,2,32,M18,
+E1336,Arjun Tan,Customer Support,Support Agent,male,1976-03-24,2025-09-16,2025-10-16,Resigned,"$36,000",2,2,Yes,6,2,13,M00,Workload
+E1337,Jon Wong,Engineering,QA Engineer,male,1978-10-07,2026-09-23,,Active,69000,3,4,No,9,0,28,M21,
+E1338,Elena Ali, operations ,Logistics Analyst,M,2004-08-29,2020-09-06,2020-10-11,Terminated,"$47,500",4,2,No,7,5,40,M10,Personal
+E1339,Rahul Nair,Engineering,Software Engineer,M,1975-03-17,2019-02-11,2019-05-04,Terminated,100300,4,1,Yes,7,3,37,M23,Workload
+E1340,Chen Costa,Finance,Financial Analyst,M,1985-10-06,14/8/2020,,Active,77000,4,3,No,0,0,39,M27,
+E1341,Aisha Menon,Sales,SDR,F,1991-10-11,23/7/2022,,Active,49200,4,3,No,0,1,54,M18,
+E1342,Sara Costa,Operations,Logistics Analyst,Female,2003-05-16,21/3/2022,,Active,50800,2,4,No,2,5,39,M27,
+E1343,Jon Menon,Operations,Ops Coordinator,M,1969-03-11,14 Oct 2020,,Active,"$52,400",4,4,No,2,4,35,M21,
+E1344,Jon Hassan,Engineering,QA Engineer,M,1970-06-18,2026-09-09,,Active,83600,4,3,No,8,5,23,M23,
+E1345,Nora Lim,Engineering,Software Engineer,Female,1992-10-09,2026-02-12,2026-07-25,Terminated,66700,4,2,No,6,5,22,M26,Personal
+E1346,Rahul Lim,Operations,Ops Coordinator,M,1979-05-14,2024-04-05,,Active,53200,2,2,No,4,3,25,M17,
+E1347,Ali Silva,Engineering,QA Engineer,male,1977-08-04,14/8/2022,,Active,100900,4,4,No,1,1,32,M26,
+E1348,Ahmed Hassan,Sales,Sales Manager,F,1987-06-19,2023-03-15,,Active,"$44,000",2,3,No,3,4,45,M06,
+E1349,Omar Lim,Marketing,Marketing Specialist,F,1982-06-08,26 Jun 2022,,Active,"$50,700",4,3,No,3,4,26,M23,
+E1350,Yusuf Ong,Sales,Account Executive,Female,1968-01-26,6/4/2024,,Active,"$56,400",3,3,No,0,2,39,M05,
+E1351,Fatima Ali, operations ,Ops Coordinator,Female,1980-07-29,8 Jan 2023,2 Aug 2026,Resigned,55400,2,3,No,4,2,36,M27,Personal
+E1352,Omar Ali,Finance,Accountant,Female,1976-04-17,2025-07-05,2026-04-17,Terminated,"$79,400",3,3,No,5,3,18,M11,Career growth
+E1353,Aisha Patel,Sales,Sales Manager,male,1974-08-24,10/12/2024,,Active,46500,4,2,No,4,5,36,M15,
+E1354,Hana Silva,Engineering,QA Engineer,F,2004-02-28,2024-09-10,,Active,109700,4,2,No,1,3,46,M11,
+E1355,Ravi Wong,Sales,SDR,Female,1989-07-11,23 Mar 2024,23 Nov 2024,Resigned,49200,3,3,No,7,0,50,M19,Relocation
+E1356,Elena Patel,Finance,Financial Analyst,F,1968-09-17,5 Mar 2018,,Active,86500,3,4,No,0,2,38,M04,
+E1357,Ali Wong,Customer Support,Support Agent,Female,1979-03-11,20/6/2023,,Active,49900,4,3,No,0,1,52,M05,
+E1358,Ahmed Ali,Operations,Logistics Analyst,M,1998-05-12,19 Jul 2026,,Active,63100,4,4,No,9,1,28,M25,
+E1359,Omar Wong,Engineering,QA Engineer,M,1975-06-11,2020-11-10,,Active,106700,2,2,No,2,1,26,M26,
+E1360,Daniel Wong,Marketing,Content Lead,male,1999-01-21,5/6/2022,,Active,47200,3,2,No,4,0,14,M11,
+E1361,Jon Rahman,Operations,Ops Coordinator,male,1974-02-04,14/5/2019,,Active,50900,4,3,No,1,4,24,M15,
+E1362,Omar Costa,Customer Support,Support Agent,F,1981-07-05,2/11/2024,,Active,47500,3,3,No,16,0,47,M05,
+E1363,Mei Wong,Operations,Logistics Analyst,F,1974-01-11,2018-03-24,,Active,54700,2,4,No,1,4,16,M18,
+E1364,Yusuf Hassan,Engineering,QA Engineer,Female,1979-08-16,11 Aug 2026,,Active,"$105,500",3,2,No,9,5,23,M24,
+E1365,Ahmed Hassan,Sales,Sales Manager,F,1980-01-30,29/11/2018,22/2/2019,Terminated,"$56,200",3,1,Yes,0,0,24,M08,Relocation
+E1366,Fatima Tan,SALES,Sales Manager,Female,2004-03-03,2022-11-23,,Active,60900,4,3,Yes,1,1,36,M03,
+E1367,Fatima Menon,Engineering,QA Engineer,M,1984-05-23,2025-03-08,,Active,92200,4,2,No,2,2,17,M27,
+E1368,Ali Lim,Marketing,Content Lead,F,2003-03-24,22 Aug 2026,,Active,"$72,300",4,2,No,10,2,52,M20,
+E1369,Omar Menon, engineering ,Software Engineer,M,1989-01-13,2025-08-10,,Active,"$73,400",2,2,No,2,1,45,M05,
+E1370,Lena Wong,ENGINEERING,Senior Engineer,male,1986-02-16,20 Nov 2019,,Active,81700,3,3,No,4,0,45,M16,
+E1371,Daniel Silva,Engineering,Senior Engineer,,1988-08-12,6 Nov 2022,,Active,108600,4,4,No,0,3,24,M21,
+E1372,Priya Haddad,Sales,Account Executive,M,1999-06-27,18 Apr 2018,10 Jan 2019,Terminated,71100,4,4,No,3,4,41,M25,Workload
+E1373,Lena Patel,Operations,Ops Coordinator,male,1968-01-17,2020-01-22,,Active,"$51,800",3,3,Yes,3,4,43,M06,
+E1374,Aisha Hassan,Marketing,Content Lead,F,1968-08-26,6/11/2024,,Active,55700,4,4,No,3,4,24,M21,
+E1375,Chen Hassan,Engineering,Senior Engineer,male,1979-09-15,18/4/2022,,Active,"$110,900",4,2,No,1,3,21,M27,
+E1376,Ahmed Hassan,Sales,Account Executive,male,1983-03-12,2024-10-02,,Active,,2,3,Yes,6,4,26,M02,
+E1377,Sara Ali,Sales,Account Executive,Female,1970-08-08,11 Oct 2026,25 Oct 2026,Terminated,55100,3,3,Yes,0,5,28,M22,Career growth
+E1378,Ahmed Menon,Engineering,Senior Engineer,male,1994-01-31,27/1/2021,5/5/2026,Terminated,112400,3,4,No,8,1,26,M21,Workload
+E1379,Sara Menon,Customer Support,Support Agent,F,1996-06-07,11/2/2025,,Active,"$49,400",3,3,No,9,1,45,M05,
+E1380,Yusuf Lim,Customer Support,Support Agent,F,1975-05-05,4/10/2020,,Active,37300,3,4,No,10,0,27,M23,
+E1381,Ravi Rahman,Operations,Ops Coordinator,male,2003-10-13,12 Jan 2024,,Active,55100,4,2,No,0,3,34,M13,
+E1382,Lena Menon,Customer Support,Team Lead,F,1997-05-05,20 Mar 2026,,Active,28700,3,2,No,0,5,25,M14,
+E1383,Hana Khan,Sales,Account Executive,M,1997-10-23,6 Jul 2019,,Active,62000,4,3,No,1,1,27,M11,
+E1384,Rahul Ong,Sales,Sales Manager,F,1998-07-20,18 Sep 2019,,Active,45800,4,4,No,7,2,22,M02,
+E1385,Rahul Silva,Engineering,QA Engineer,M,2001-09-25,15/6/2019,4/9/2019,Terminated,91300,3,2,No,4,0,41,M04,Personal
+E1386,Maya Ali, sales ,Sales Manager,Female,1977-10-25,2021-12-28,2026-06-29,Terminated,50400,2,1,Yes,6,2,39,M07,Manager
+E1387,Hana Silva,Operations,Ops Coordinator,M,1971-10-11,6 Oct 2026,,Active,"$53,400",4,2,No,0,0,26,M01,
+E1388,Hana Menon,Finance,Accountant,M,2003-10-18,2022-03-18,,Active,81300,4,3,No,1,5,18,M02,
+E1389,Yusuf Costa,Customer Support,Support Agent,M,1998-06-06,29 Dec 2019,,Active,36400,3,3,No,15,3,25,M08,
+E1390,Aisha Haddad,Sales,Sales Manager,F,1969-06-02,10 Sep 2025,15 Jan 2026,Resigned,49500,3,4,No,9,1,33,M11,Better pay elsewhere
+E1391,Ravi Haddad,Sales,Sales Manager,,1986-10-27,14 Mar 2020,,Active,39300,4,3,No,1,1,46,M03,
+E1392,Yusuf Weber,Engineering,Software Engineer,male,1988-04-06,2022-06-03,,Active,96200,2,4,No,2,1,23,M04,
+E1393,Yusuf Lim,Engineering,QA Engineer,male,1978-02-08,22/10/2022,23/1/2023,Resigned,103200,3,1,Yes,0,3,50,M13,Relocation
+E1394,Arjun Weber,Engineering,Software Engineer,M,1973-06-29,8 Mar 2022,12 Dec 2023,Resigned,109800,3,2,No,0,0,36,M17,Workload
+E1395,Aisha Khan,Engineering,QA Engineer,male,1999-01-11,2019-09-19,,Active,"$68,000",3,3,No,1,1,16,M00,
+E1396,Fatima Haddad,Sales,Account Executive,M,1989-08-02,15 Nov 2025,,Active,64100,3,3,No,6,2,35,M24,
+E1397,Daniel Tan,Engineering,Software Engineer,male,1978-05-05,25 Nov 2024,,Active,68900,3,3,Yes,9,5,45,M18,
+E1398,Nora Khan,Customer Support,Team Lead,male,1987-10-06,30 Nov 2024,,Active,45500,4,3,Yes,0,5,18,M08,
+E1399,Maya Silva,Marketing,Content Lead,F,1972-04-29,2021-03-27,,Active,"$68,000",3,2,No,1,4,48,M04,
+E1400,Rahul Weber,Engineering,Senior Engineer,Female,2002-07-19,2019-10-21,,Active,101800,4,2,No,10,4,35,M02,
+E1401,Maya Silva,Engineering,Software Engineer,Female,2002-05-18,2022-01-04,,Active,64500,2,2,No,7,5,36,M14,
+E1402,Chen Ali,Sales,SDR,M,2000-03-18,8 Oct 2019,24 Mar 2020,Terminated,63700,3,3,Yes,3,4,12,M09,Relocation
+E1403,Nora Khan,Customer Support,Team Lead,F,2003-01-14,6 May 2024,15 Oct 2024,Resigned,"$38,600",4,2,Yes,11,5,27,M22,Personal
+E1404,Arjun Hassan,Customer Support,Team Lead,M,1996-01-20,2026-08-31,,Active,"$43,500",3,3,Yes,2,4,50,M06,
+E1405,Fatima Tan,Marketing,Marketing Specialist,M,1995-10-23,21/8/2022,,Active,50300,3,2,No,1,5,36,M07,
+E1406,Yusuf Rahman,Operations,Ops Coordinator,M,1976-06-14,2019-04-08,,Active,"$45,600",3,2,No,5,2,40,M03,
+E1407,Ahmed Tan, customer support ,Support Agent,F,1973-09-17,19/7/2020,,Active,50600,3,4,No,21,4,33,M04,
+E1408,Ravi Haddad,Sales,Account Executive,F,1987-07-22,4 Apr 2020,,Active,"$63,800",4,2,No,0,5,27,M08,
+E1409,Maya Haddad,SALES,Account Executive,F,1975-09-12,27 Jan 2026,,Active,,3,2,Yes,8,4,12,M04,
+E1410,Elena Rahman,Marketing,Content Lead,male,1982-07-03,2022-12-12,2023-07-11,Terminated,59900,4,2,Yes,3,5,44,M05,Better pay elsewhere
+E1411,Yusuf Ong,Engineering,Senior Engineer,male,1991-03-13,2018-09-17,,Active,69800,2,2,No,0,5,9,M22,
+E1412,Priya Lim,Engineering,QA Engineer,M,1982-08-10,2025-06-14,,Active,"$70,900",3,4,No,0,5,21,M20,
+E1413,Priya Tan,Engineering,Software Engineer,F,1996-10-17,29/8/2026,,Active,,3,2,Yes,6,1,22,M23,
+E1414,Ali Wong,Engineering,QA Engineer,F,1979-03-30,21 May 2020,,Active,"$114,100",4,4,No,1,1,47,M18,
+E1415,Jon Silva,Sales,SDR,male,1998-07-15,2025-07-17,,Active,69200,4,2,No,0,5,54,M04,
+E1416,Aisha Silva,Sales,Sales Manager,M,1996-07-12,2022-12-20,2023-04-30,Resigned,63900,3,4,No,1,2,43,M24,Relocation
+E1417,Hana Lim,Engineering,QA Engineer,M,1993-06-08,12/12/2023,,Active,103000,3,3,Yes,4,5,14,M13,
+E1418,Mei Patel,Engineering,Software Engineer,M,1979-02-26,2020-11-05,,Active,102800,4,3,No,10,4,46,M00,
+E1419,Elena Hassan,Sales,Sales Manager,Female,2000-02-14,10/7/2024,8/12/2024,Resigned,"$46,800",3,2,Yes,1,2,30,M11,Personal
